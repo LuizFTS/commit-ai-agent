@@ -23,6 +23,10 @@ git commit -m "subject" -m "body..."
 
 * Python 3.10+
 * A valid Google GenAI API key.
+* Install google-genai library
+```
+pip install google-genai
+```
 
 Set the environment variable:
 
